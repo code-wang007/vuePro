@@ -1,6 +1,7 @@
 <template>
 	<div id="about">
 		<h1>About</h1>
+		<h2>git修改</h2>
 		<!-- 商品列表页 -->
 		<shop-list></shop-list>
 		<!-- 购物车详情页 -->
