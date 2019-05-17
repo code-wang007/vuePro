@@ -1,8 +1,6 @@
 <template>
 	<div id="about">
 		<h1>About</h1>
-		<h2>test新分支合并</h2>
-		<h2>test新分支合并冲突吗</h2>
 		<!-- 商品列表页 -->
 		<shop-list></shop-list>
 		<!-- 购物车详情页 -->
